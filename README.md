@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 ## 4- Results
 
-#### The main findings of the code can be found at the post available [here](https://www.kaggle.com/wosaku/crime-in-vancouver).
+#### The main findings of the code can be found at the post available [here](https://github.com/Abdol9900/Write-a-Data-Science-Blog-Post-in-crime-in-Vancouver/blob/master/crime_in_Vancouver.ipynb).
 
 ___________________________________________________________________________________________________________________________________________
 
