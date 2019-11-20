@@ -35,8 +35,7 @@ ________________________________________________________________________________
 #### There is one notebook available to show the work and answering the question above.
 #### crime.csv: This file contains 530652 rows × 12 columns about the crime in Vancouver, it contains different kind of variables such as numerical or categorical. It also contains missing values.
 
-___________________________________________________________________________________________________________________________________________
-
+________________________________________________________________________________________________________________________________________
 
 ## 4- Results
 
