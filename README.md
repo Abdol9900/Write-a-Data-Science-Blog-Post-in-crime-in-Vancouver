@@ -6,8 +6,8 @@ ________________________________________________________________________________
 #### 1-	Installation
 #### 2-	Project motivation
 #### 3-	File description
-##### 4-	Results
-##### 5-	Licensing, Authors, Acknowledgements 
+#### 4-	Results
+#### 5-	Licensing, Authors, Acknowledgements 
 
 ___________________________________________________________________________________________________________________________________________
 
