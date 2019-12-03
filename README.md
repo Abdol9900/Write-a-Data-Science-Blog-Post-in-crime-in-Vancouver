@@ -1,8 +1,8 @@
 # Write-a-Data-Science-Blog-Post-Crims in Vancouver
 ______________________________________________________________________________________
 
-# A Udacity Data Scientist Nanodegree Project
-## Table of Contents
+## A Udacity Data Scientist Nanodegree Project
+### Table of Contents
 #### 1-	Installation
 #### 2-	Project motivation
 #### 3-	File description
