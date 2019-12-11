@@ -2,7 +2,7 @@
 ______________________________________________________________________________________
 
 # A Udacity Data Scientist Nanodegree Project
-### Table of Contents
+## Table of Contents
 #### 1-	Installation
 #### 2-	Project motivation
 #### 3-	File description
