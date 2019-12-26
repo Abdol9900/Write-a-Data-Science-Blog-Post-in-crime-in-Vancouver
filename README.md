@@ -46,3 +46,8 @@ ________________________________________________________________________________
 ## 5-	Licensing, Authors, Acknowledgements 
 
 #### Must give credit to Analytics Wilian Osaku and Kaggle for providing this data. The data and descriptive information can be found at Kaggle [here](https://www.kaggle.com/wosaku/crime-in-vancouver).
+
+## License 
+Abduelalh Asiri,
+
+License under the [MIT License] (LICENSE).
