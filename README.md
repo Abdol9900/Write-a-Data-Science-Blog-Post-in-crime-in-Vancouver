@@ -50,4 +50,4 @@ ________________________________________________________________________________
 ## License 
 Abduelalh Asiri,
 
-License under the [MIT License] (LICENSE).
+## License under the MIT License.
