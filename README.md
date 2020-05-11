@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 
 ## 1-Installation
-#### Anaconda should be installed and to run the code file is not necessary of installing packages. Also, the code file it can run in python3, but these python liberals should be installed:
+#### Anaconda should be installed and to run the code file is not necessary of installing packages. Also, the code file it can run in python3, but these python libraries should be installed:
 #### 1-	NumPy 
 #### 2-	Pandas 
 #### 3-	Matplotlib
